@@ -17,6 +17,5 @@ We focus on the following areas:
 
 - Environmental Sciences:  The lab collaborates with researchers in various natural science disciplines like ecology, astronomy, and genetics. We apply privacy-preserving and approximate inference methods to real-world scientific problems.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
